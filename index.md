@@ -11,6 +11,6 @@ It is probably worth mentioning -- read: critically important to mention -- that
 
 Here's a list of pages published here so far:
 
-* [this is a test](test.md)
+* [Code as a Point in an Infinite Space](<0010 - Code as a Point in an Infinite Space>)
 
 Happy reading!
