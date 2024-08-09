@@ -9,4 +9,8 @@ If you've ever wondered what happens inside an SW engineer's head, well you're i
 
 It is probably worth mentioning -- read: critically important to mention -- that the opinions herein are solely mine, and do not represent the opinions of any present, past, or future employers. Any overlap between these texts and the stated views of any of those people and companies is pure coincidence, and probably a matter for study.
 
+Here's a list of pages published here so far:
+
+* [Code as a Point in an Infinite Space](<0010 - Code as a Point in an Infinite Space>)
+
 Happy reading!
