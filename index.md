@@ -12,5 +12,6 @@ It is probably worth mentioning -- read: critically important to mention -- that
 Here's a list of pages published here so far:
 
 * [Code as a Point in an Infinite Space](<0010 - Code as a Point in an Infinite Space>)
+* [Architecting Software as a Means of Cutting Down on Infinite Solutions](<0020 - Architecting Software as a Means of Cutting Down on Infinite Solutions>)
 
 Happy reading!
